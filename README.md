@@ -1,1 +1,1 @@
-# *`self-hosted-n8n`*
+# *`self_hosted_n8n`*
